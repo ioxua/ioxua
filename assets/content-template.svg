@@ -1,0 +1,12 @@
+<svg fill="none" width="500px" height="500px" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
+  <foreignObject width="500px" height="500px">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        {style}
+      </style>
+      <div id="content">
+        {content}
+      </div>
+    </div>
+  </foreignObject>
+</svg>

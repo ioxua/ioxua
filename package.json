@@ -1,0 +1,24 @@
+{
+  "name": "ioxua-gh-profile",
+  "version": "1.0.0",
+  "description": "My over engineered GitHub profile page ;)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "css-minify": "^1.0.1",
+    "svgo": "^1.3.2"
+  },
+  "scripts": {
+    "build": "node src/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioxua/ioxua.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ioxua/ioxua/issues"
+  },
+  "homepage": "https://github.com/ioxua"
+}
