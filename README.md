@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
-    <div style="background-color: black">
-        <img src="content.g.svg" width="500" height="500">
+    <div>
+        <img src="https://github.com/ioxua/ioxua/raw/master/content.g.svg?sanitize=true" width="500" height="500">
     </div>
 	<br>
 </div>
